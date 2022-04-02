@@ -1,0 +1,19 @@
+.grandpa{
+    display: flex;
+    width: 50%;
+    margin: 50px auto;
+    border: 2px solid darkcyan;
+    border-radius: 10px;
+}
+.grandpa div, .grandpa section{
+    border: 2px solid darkcyan;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+}
+.grandpa div{
+    width: 100%;
+}
+.grandpa p{
+    margin: 0;
+}
